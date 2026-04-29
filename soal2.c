@@ -1,3 +1,9 @@
+/* EL2008 Praktikum Pemecahan Masalah dengan Pemrograman
+* Modul : Structure and dynamics array  
+* Pembuat : Mhd.Khalil ALfaiz H
+* Deskripsi : Program untuk memilih artefak dengan bobot di sesuai batas yg diinginkan dan dengan nilai yang baik
+*/ 
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
